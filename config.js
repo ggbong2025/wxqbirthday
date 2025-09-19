@@ -34,13 +34,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "点我开始",
+        play: "开始音乐",
+        bannar_coming: "来点颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "用代码写的祝福，送给最特别的你",
+        wish_message: "哈哈，祝你生日快乐",
+        story: "用代码写的祝福，❤️送给最特别的你",
     }
 };
